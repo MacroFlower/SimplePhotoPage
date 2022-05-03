@@ -100,6 +100,7 @@ h5, h3{
     height: 70%;
     padding: 10px;
     float: right;
+    overflow: auto;
 }
 
 h1{
